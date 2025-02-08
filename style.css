@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.container1{
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.main_container{
+    display: flex;
+    margin-top: i5px;
+    gap: 10px;
+}
+
+.sub_container1{
+    padding: 15px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+.sub_container2{
+    color: brown;
+    background-color: burlywood;
+    margin-bottom: 20px;
+}
+
+.end-part{
+    background-color: brown;
+    color: cadetblue;
+    line-height: 30px;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+/*styling the contact*/
+
+.contact_form{
+    position: absolute;
+    left: 40%;
+    color: crimson;
+}
+
+.contact_form button{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: bisque;
+    font-weight: ;
+}
